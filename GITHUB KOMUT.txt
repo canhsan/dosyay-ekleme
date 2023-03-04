@@ -1,0 +1,40 @@
+BİR JAVA PROJESİNİ GİTHUP'A YÜKLEMEK
+
+1. git init   				      => İlgili projeyi Git'e tanıtır.
+2. git add . 					=> Klasördeki tüm dosyaları localdeki repoya yükler.
+3. git commit -m "commit mesaj yazılır"   => Lokaldeki repoda bir versiyon oluşturmak için kullanılır
+
+	<<<Yukarıdaki 3 komut Local bilgisayarda yapılacak<<<
+
+
+4. git branch -M main
+5. git remote add origin https://github.com/canhsan/Githupnew-reposito.git
+6. git push -u origin main
+
+<<<Yukarıdaki 3 komut Githup sitesinde yapılacak<<<
+
+4. git log  => folder history, folder neler yapıldığını gösterir
+
+5. git add .  => tüm değişikliğe uğramış file stage alır/ sadece istenilen dosya için dosya name yazlır
+6. git commit -m "commit mesaj yazılır"  => repository gönderir.
+7. git push => ile repoya gönderilir.
+
+8. git pull => repodan güncel bilgileri çeker
+
+
+
+
+
+
+
+
+1. git clone "repo link"
+2. git init => version kontrolu başlatıyor, hangi folder takip edilmek istiyorsa, proje folderda
+3. git status  => takip edilen file durumunu gösteriyor, modified, deleted, new,
+4. git log  => folder history, folder neler yapıldığını gösterir
+
+5. git add .  => tüm değişikliğe uğramış file stage alır/ sadece istenilen dosya için dosya name yazlır
+6. git commit -m "commit mesaj yazılır"  => repository gönderir.
+7. git push => ile repoya gönderilir.
+
+8. git pull => repodan güncel bilgileri çeker
